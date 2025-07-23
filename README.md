@@ -13,9 +13,12 @@
 
 ---
 
-## 🏆 My Favorite Project
+## 🏆 Featured Project
 
-- [Network Security](https://github.com/katta-karthik/network-security): My exploration and practical work on network security concepts and tools.
+### 🚨 [ecommerce_data_agent](https://github.com/katta-karthik/ecommerce_data_agent)
+> **Creating an AI agent for ecommerce data analysis and automation.**
+>
+> **Tech Stack:** LangChain · LangGraph · FastAPI · Streamlit · SQLite · Machine Learning · NLP · MLOps
 
 ---
 
@@ -29,6 +32,11 @@
 ![MLOps](https://img.shields.io/badge/-MLOps-ff9800?logo=dvc&logoColor=white&style=flat)
 ![NLP](https://img.shields.io/badge/-NLP-6a1b9a?logo=spacy&logoColor=white&style=flat)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-0288d1?logo=pandas&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-00b894?logo=chainlink&logoColor=white&style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-c44569?style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003b57?logo=sqlite&logoColor=white&style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-ff4b4b?logo=streamlit&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 
 ---
 
