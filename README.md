@@ -15,7 +15,7 @@
 
 ## 🏆 Featured Project
 
-### 🚨 [ecommerce_data_agent](https://github.com/katta-karthik/ecommerce_data_agent)
+### 🚨 [ecommerce_data_agent](https://github.com/katta-karthik/ai_agent_for_ecommerce-data)
 > **Creating an AI agent for ecommerce data analysis and automation.**
 >
 > **Tech Stack:** LangChain · LangGraph · FastAPI · Streamlit · SQLite · Machine Learning · NLP · MLOps
