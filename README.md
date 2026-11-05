@@ -105,8 +105,7 @@
 
 <div align="center">
   <a href="https://github.com/katta-karthik">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=katta-karthik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Katta Karthik's GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=katta-karthik&theme=tokyonight&hide_border=true" width="49%" alt="Katta Karthik's GitHub Streak" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=katta-karthik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Katta Karthik's GitHub Stats" />
   </a>
 </div>
 
